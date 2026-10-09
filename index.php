@@ -7,7 +7,7 @@
 <body>
 <p>
 <?php
-$nombre = "diego";
+$nombre = "dferdom";
 echo "hola, me llamo $nombre";
 ?>
 </p>
